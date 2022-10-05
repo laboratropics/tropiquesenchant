@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: void
 permalink: /void/
 subtitle: <a href='#'>Affiliations</a>. based in Cairns. email us at <a href='central@tropiques.com.au'>central@tropiques.com.au</a>. Answering Nature.
