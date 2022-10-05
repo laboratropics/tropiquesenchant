@@ -1,8 +1,8 @@
 ---
-layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+layout: page
+title: void
+permalink: /void/
+subtitle: <a href='#'>Affiliations</a>. based in Cairns. email us at <a href='central@tropiques.com.au'>central@tropiques.com.au</a>. Answering Nature.
 
 profile:
   align: right
