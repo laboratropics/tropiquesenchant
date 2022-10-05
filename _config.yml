@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: TROPIQUES # the website title (if blank, full name will be used instead)
-first_name: Les Couleurs Des Tropiques
+title: Les Couleurs Des Tropiques # the website title (if blank, full name will be used instead)
+first_name: #
 middle_name: #
 last_name: #
 email: central@tropiques.com.au
@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
